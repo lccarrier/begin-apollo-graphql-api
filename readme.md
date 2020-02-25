@@ -8,7 +8,8 @@
 
 [![Deploy to Begin](https://static.begin.com/deploy-to-begin.svg)](https://begin.com/apps/create?template=https://github.com/begin-examples/node-apollo)
 
-Deploy your own clone of this app to Begin!
+Deploy your own clone of this app to Begin! 
+This is a test.
 
 ## Getting started
 
